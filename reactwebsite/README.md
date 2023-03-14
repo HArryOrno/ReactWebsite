@@ -1,1 +1,0 @@
-To see the website, simply pull it up in whatever IDE you like and run it.
